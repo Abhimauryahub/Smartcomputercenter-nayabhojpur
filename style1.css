@@ -54,7 +54,7 @@ html{
     padding :0 20px;
 }
 .background{
-    background:rgba(0, 0, 0, 0.6) url('../img/computer2.jpg');
+    background:rgba(0, 0, 0, 0.6) url('computer2.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
